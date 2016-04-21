@@ -1,0 +1,1 @@
+INSERT INTO NBA.dbo.COACH (CoachFName, CoachLName) VALUES ('Steve', 'Kerr');
